@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently studying on [Holberton School Uruguay](https://holbertonschool.uy/)
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Diego29012](https://github.com/Diego29012](https://github.com/Diego29012?tab=repositories))
-
+- 👨‍💻 All of my projects are available at [[[https://github.com/Diego29012](https://github.com/Diego29012](https://github.com/Diego29012?tab=repositories))
+](https://github.com/Diego29012?tab=repositories)
 - 📫 How to reach me **diegoelian3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
