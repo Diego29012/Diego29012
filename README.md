@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dark**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Diego29012?tab=repositories](https://github.com/Diego29012?tab=repositories)
+- 👨‍💻 All of my projects are available at [www.Diego29012.com.uy](https://github.com/Diego29012?tab=repositories)
 
 - 📫 How to reach me **diegoelian3@gmail.com**
 
