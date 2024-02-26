@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diego29012?tab=repositories](https://github.com/Diego29012?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS,JS**
-
 - 📫 How to reach me **diegoelian3@gmail.com https://www.linkedin.com/in/diego-pi%C3%B1eyro-pereyra-9bb250273/**
 
 <h3 align="left">Connect with me:</h3>
