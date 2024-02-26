@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diego29012?tab=repositories](https://github.com/Diego29012?tab=repositories)
 
-- 📫 How to reach me **diegoelian3@gmail.com https://www.linkedin.com/in/diego-pi%C3%B1eyro-pereyra-9bb250273/**
+- 📫 How to reach me **diegoelian3@gmail.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
